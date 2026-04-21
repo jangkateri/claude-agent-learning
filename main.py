@@ -1,3 +1,4 @@
+#!/c/Users/JANG/claude_testing/claude_agent_learning/.venv/Scripts/python
 """Claude Agent SDK command-line runner.
 
 Sends a prompt to the Claude Agent SDK and streams back responses,
